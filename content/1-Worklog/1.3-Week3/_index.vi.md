@@ -15,7 +15,7 @@ pre: " <b> 1.3. </b> "
 | 3 |  | 21/07/2026 | 21/07/2026 |  |
 | 4 |  | 22/07/2026 | 22/07/2026 |  |
 | 5 | - Tìm hiểu về Innovation Waves và Burning Platform<br>&emsp;+ Hiểu sự phát triển của các làn sóng công nghệ.<br>&emsp;+ Biết các nguyên nhân khiến doanh nghiệp cần thay đổi và chuyển đổi lên Cloud.<br>- Tìm hiểu về chuyển đổi số<br>&emsp;+ Xác định các yếu tố cần thiết như mục tiêu, chiến lược, con người, quy trình và công nghệ.<br>&emsp;+ Hiểu vai trò của điện toán đám mây trong quá trình chuyển đổi số.<br>- Tìm hiểu sự phát triển của sức mạnh tính toán<br>&emsp;+ Phân biệt vai trò của CPU, GPU và chip chuyên dụng.<br>&emsp;+ Làm quen với Amazon EC2, AWS Inferentia và Amazon Braket.<br>- Tìm hiểu lợi ích của điện toán đám mây<br>&emsp;+ Biết cách Cloud giúp tiết kiệm chi phí, mở rộng linh hoạt và triển khai nhanh.<br>&emsp;+ Hiểu bảy lợi ích chính của Cloud như phạm vi toàn cầu, độ tin cậy, bảo mật và tính co giãn.<br>- Tìm hiểu AWS Global Infrastructure<br>&emsp;+ Hiểu các thành phần Region, Availability Zone và Edge Location.<br>&emsp;+ Thực hành kiểm tra, thay đổi và lựa chọn AWS Region phù hợp. | 23/07/2026 | 23/07/2026 | [AWS Certified Cloud Practitioner (CLF C02)](https://www.youtube.com/playlist?list=PLBfufR7vyJJ4du5ANexy0SuQ0J7KhRcjI) |
-| 6 |  | 24/07/2026 | 24/07/2026 |  |
+| 6 | - Tìm hiểu cấu trúc và vai trò của Availability Zone trong một AWS Region.<br>- Biết cách triển khai tài nguyên trên nhiều AZ để tăng tính sẵn sàng và giảm gián đoạn.<br>- Thực hành lựa chọn AWS Region dựa trên độ trễ, chi phí, vị trí dữ liệu và dịch vụ hỗ trợ.<br>- Biết phân phối EC2, subnet và các tài nguyên khác theo mô hình Multi-AZ. | 24/07/2026 | 24/07/2026 | [AWS Certified Cloud Practitioner (CLF C02)](https://www.youtube.com/playlist?list=PLBfufR7vyJJ4du5ANexy0SuQ0J7KhRcjI) |
 
 ### Kết quả đạt được tuần 3:
 
@@ -33,3 +33,8 @@ pre: " <b> 1.3. </b> "
 <br>&emsp;&emsp;○ Nắm được các lợi ích chính của điện toán đám mây.
 <br>&emsp;&emsp;○ Hiểu cấu trúc cơ sở hạ tầng toàn cầu của AWS.
 <br>&emsp;&emsp;○ Biết kiểm tra và lựa chọn Region dựa trên độ trễ, chi phí, dịch vụ và vị trí dữ liệu.
+
+&emsp;◉ Thứ 6:
+<br>&emsp;&emsp;○ Hiểu được sự khác nhau giữa Region và Availability Zone.
+<br>&emsp;&emsp;○ Biết kiểm tra Region trước khi tạo tài nguyên.
+<br>&emsp;&emsp;○ Biết thiết kế hệ thống trên nhiều AZ để tăng độ tin cậy và khả năng chịu lỗi.
