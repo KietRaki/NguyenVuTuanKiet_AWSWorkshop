@@ -8,6 +8,11 @@ pre: " <b> 1.3. </b> "
 
 ### Mục tiêu tuần 3:
 
+* Xây dựng kiến thức thực tiễn về bảo mật tài khoản AWS.
+* Quản lý chi phí.
+* Chuyển đổi đám mây.
+* Công nghệ máy tính và hạ tầng toàn cầu, bao gồm các Khu vực và Khu vực sẵn có.
+
 ### Các công việc đã làm trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 |:---:|---|:---:|:---:|---|

@@ -18,9 +18,9 @@ This year, I - Nguyen Vu Tuan Kiet will intern in the AWS FCAJ Workforce program
 
 **Week 3:** [Week 3 tasks](1.3-week3/)
 
-<!-- **Week 4:** [Week 4 tasks](1.4-week4/)
+**Week 4:** [Week 4 tasks](1.4-week4/)
 
-**Week 5:** [Week 5 tasks](1.5-week5/)
+<!-- **Week 5:** [Week 5 tasks](1.5-week5/)
 
 **Week 6:** [Week 6 tasks](1.6-week6/)
 

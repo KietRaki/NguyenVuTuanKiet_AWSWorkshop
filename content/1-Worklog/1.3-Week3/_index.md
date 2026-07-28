@@ -8,6 +8,11 @@ pre: " <b> 1.3. </b> "
 
 ### Week 3 Objectives:
 
+* Build practical knowledge of AWS account security.
+* Cost management.
+* Cloud transformation.
+* Computing technologies and global infrastructure, including Regions and Availability Zones.
+
 ### Tasks completed this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 |:---:|---|:---:|:---:|---|
