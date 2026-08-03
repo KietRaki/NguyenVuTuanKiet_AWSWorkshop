@@ -18,11 +18,11 @@ Năm nay em - Nguyễn Vũ Tuấn Kiệt sẽ thực tập tại chương trình
 
 **Tuần 3:** [Công việc tuần 3](1.3-week3/)
 
-<!-- **Tuần 4:** [Công việc tuần 4](1.4-week4/)
+**Tuần 4:** [Công việc tuần 4](1.4-week4/)
 
 **Tuần 5:** [Công việc tuần 5](1.5-week5/)
 
-**Tuần 6:** [Công việc tuần 6](1.6-week6/)
+<!-- **Tuần 6:** [Công việc tuần 6](1.6-week6/)
 
 **Tuần 7:** [Công việc tuần 7](1.7-week7/)
 
