@@ -10,7 +10,7 @@ pre: " <b> 4. </b> "
 ⚠️ **Note:** The information below is for reference purposes only. Please **do not copy it verbatim** for your report, including this warning.
 {{% /notice %}} -->
 
-### None
+## None
 
 <!-- > In this section, you should list and describe in detail the events you have participated in during your internship or work experience.  
 > 
