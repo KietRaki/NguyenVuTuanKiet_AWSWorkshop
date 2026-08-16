@@ -8,6 +8,9 @@ pre: " <b> 1.6. </b> "
 
 ### Mục tiêu tuần 6:
 
+* Thực hành xây dựng và triển khai các thành phần AWS cơ bản.
+* Tập trung vào VPC, S3 và RDS, đồng thời làm quen với mạng, bảo mật, lưu trữ, cơ sở dữ liệu và kết nối EC2.
+
 ### Các công việc đã làm trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 |:---:|---|:---:|:---:|---|

@@ -8,6 +8,9 @@ pre: " <b> 1.6. </b> "
 
 ### Week 6 Objectives:
 
+* Pratice building and deploying basic AWS components.
+* Focus on VPC, S3 and RDS while also getting familiar with networking, security, storage, databases and EC2 connectivity.
+
 ### Tasks completed this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 |:---:|---|:---:|:---:|---|
