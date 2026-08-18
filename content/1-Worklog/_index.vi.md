@@ -24,9 +24,9 @@ Năm nay em - Nguyễn Vũ Tuấn Kiệt sẽ thực tập tại chương trình
 
 **Tuần 6:** [Công việc tuần 6](1.6-week6/)
 
-<!-- **Tuần 7:** [Công việc tuần 7](1.7-week7/)
+**Tuần 7:** [Công việc tuần 7](1.7-week7/)
 
-**Tuần 8:** [Công việc tuần 8](1.8-week8/)
+<!-- **Tuần 8:** [Công việc tuần 8](1.8-week8/)
 
 **Tuần 9:** [Công việc tuần 9](1.9-week9/)
 
